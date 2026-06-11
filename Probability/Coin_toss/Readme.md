@@ -19,4 +19,4 @@ Features:
 - Calculate ratios
 ## Concept learned:
 - Using a `for` loop
-- Counting Heads occurrences by using `if` condition
+- Counting Heads occurrences by using an `if` condition
