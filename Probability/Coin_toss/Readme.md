@@ -18,5 +18,5 @@ Features:
 - Allow multiple tosses
 - Calculate ratios
 ## Concept learned:
-- Using a '''for''' loop
-- Counting Heads occurrences by using an 'if' condition
+- Using a `for` loop
+- Counting Heads occurrences by using `if` condition
