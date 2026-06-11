@@ -14,3 +14,9 @@ Features:
 - Basic Probability experiment
 
 ## version 2
+Features:
+- Allow multiple tosses
+- Calculate ratios
+## Concept learned:
+- Using a '''for''' loop
+- Counting Heads occurrences by using an 'if' condition
