@@ -20,3 +20,4 @@ Features:
 ## Concept learned:
 - Using a `for` loop
 - Counting Heads occurrences by using an `if` condition
+- Law of large numbers
